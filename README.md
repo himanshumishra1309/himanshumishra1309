@@ -43,23 +43,22 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express.js-000000?&logo=express)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?&logo=socket.io)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?&logo=googlecloud)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
 
 </div>
 
