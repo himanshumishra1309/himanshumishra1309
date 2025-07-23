@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra1309&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu-mishra-27&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshumishra1309&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
@@ -79,9 +79,26 @@
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-mishra-459b882b4/)
+- 💻 [Codeforces](https://codeforces.com/profile/Himanshu1309)
+- 👨‍💻 [LeetCode](https://leetcode.com/u/_himanshu_mishra_/)
 - 💌 Email: **himanshu.mishra0913@gmail.com**
 - 💼 Open to **placement offers**, **internships**, and **freelance/full-time roles**
 - ⚡ Let’s collaborate on tech that truly matters
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/himanshu-mishra-459b882b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/Himanshu1309" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/_himanshu_mishra_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="mailto:himanshu.mishra0913@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
