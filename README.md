@@ -1,10 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Himanshu Mishra</h1>
-<h3 align="center">Full-Stack & Flutter Developer | SIH Winner | ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Flutter+Developer;SIH+Winner+%7C+ML+Enthusiast;GCP+%7C+Docker+%7C+Socket.IO+%7C+MongoDB" alt="Typing SVG" />
-</p>
-
+<h3 align="center">Full-Stack & Flutter Developer | SIH Winner | ML Enthusiast | Practicing DSA</h3>
 
 
 ---
