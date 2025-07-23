@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack & Flutter Developer | SIH Winner | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=👑+SIH+Winner+2023;🏆+Hackathon+Champion+@+Amrita;🚀+Building+Real-World+Solutions+in+Full-Stack+and+Flutter;☁️+Deploying+Scalable+Apps+on+GCP;💡+On+a+Mission+to+Transform+Tech+with+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Flutter+Developer;SIH+Winner+2023+🏆;ML+Enthusiast+%7C+Open+Source+Contributor;GCP+%7C+Socket.IO+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
 </p>
 
 ---
