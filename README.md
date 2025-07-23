@@ -69,7 +69,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-mishra-27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra1309&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu-mishra-27&theme=tokyonight" alt="Streak Stats" />
 </p>
