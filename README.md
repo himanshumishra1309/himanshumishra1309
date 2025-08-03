@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 CSE Undergrad | Batch of **2027**
-- 👑 **Smart India Hackathon 2023 Winner** — Faculty Appraisal System (Top 1 out of 177 teams)
+- 👑 **Smart India Hackathon 2024 Winner** — Faculty Appraisal System (Top 1 out of 177 teams)
 - 🏆 Hackathon Winner @ **Amrita Vishwa Vidyapeetham(EvoLumin)**
 - 📱 Developer of production-grade **Flutter**, **React**, and **Full-stack** apps
 - ☁️ Proficient in **Google Cloud**, **Docker**, **Linux**, and scalable backend architecture
