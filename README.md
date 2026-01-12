@@ -22,8 +22,8 @@
 |----------|-----------------------------|
 | 🚀 Full-Stack Dev | `Faculty Appraisal System` (SIH Winning Project) • `MediCare` (Evolumin Hackathon) with live chat (Socket.IO) • `StackIt Q&A Platform` |
 | 📱 Mobile Dev | `Athlete Management App` (GDSC Solution Challenge) with 3D injury model & RP Graph • `StackIt Flutter App` (Odoo Hackathon) |
-| 🌐 Web Scraping | Automated data crawlers for LinkedIn, Twitter, and Google News using Python |
-| ☁️ DevOps & Cloud | Deployed full-stack apps on **GCP Compute Engine** with **Docker** and **Nginx** in production |
+| 🌐 Web Scraping | Built a pipeline that scrapes blogs from a platform, searches their titles on Google, extracts content from top results, and uses Gemini LLM to enhance and rewrite blogs for improved SEO and reach |
+| ☁️ DevOps & Cloud | Deployed full-stack apps on **GCP Compute Engine** with **Nginx** in production |
 | 📊 Databases & Data Systems | Proficient with **MongoDB** for real-time storage (e.g. machine monitoring) • Comfortable with snapshotting, structured storage & querying |
 | 🤖 ML Enthusiast | Learning supervised ML techniques and exploring integrations into app workflows for smart analytics |
 | 🔌 Real-Time Communication | Integrated **Socket.IO** in production (chat & notifications)
@@ -46,11 +46,11 @@
 
 
 <!-- Tools & Languages -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -65,11 +65,18 @@
 <!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 <!-- DevOps & Hosting -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- Web Scraping & AI -->
+<img src="https://img.shields.io/badge/Cheerio-FFA500?style=for-the-badge&logo=cheerio&logoColor=white" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+<img src="https://img.shields.io/badge/Readability-000000?style=for-the-badge&logo=readme&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20LLM-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
 
 
 </div>
