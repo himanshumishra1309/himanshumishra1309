@@ -86,17 +86,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra1309&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra1309&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-mishra-459b882b4/)
