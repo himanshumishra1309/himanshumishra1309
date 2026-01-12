@@ -9,7 +9,7 @@
 - 🎓 CSE Undergrad | Batch of **2027**
 - 👑 **Smart India Hackathon 2024 Winner** — Faculty Appraisal System (Top 1 out of 177 teams)
 - 🏆 Hackathon Winner @ **Amrita Vishwa Vidyapeetham(EvoLumin)**
-- 📱 Developer of production-grade **Flutter**, **React**, and **Full-stack** apps
+- 📱 Developer of production-grade **Full-stack** web and mobile apps
 - ☁️ Proficient in **Google Cloud**, **Docker**, **Linux**, and scalable backend architecture
 - 🔍 Exploring **System Design**, and **AI Integrations**
 - 🧠 Strong foundation in **C++** and **DSA**
@@ -20,11 +20,12 @@
 
 | 💼 Domain | 🌟 Highlights |
 |----------|-----------------------------|
-| 🚀 Full-Stack Dev | `Faculty Appraisal System` (SIH Winning Project) • `MediCare` (Evolumin Hackathon) with live chat (Socket.IO) • `StackIt Q&A Platform` |
-| 📱 Mobile Dev | `Athlete Management App` (GDSC Solution Challenge) with 3D injury model & RP Graph • `StackIt Flutter App` (Odoo Hackathon) |
+| 🚀 Full-Stack Dev | `Faculty Appraisal System` (SIH Winning Project) • `MediCare` (Evolumin Hackathon Winning Project) with live chat (Socket.IO) • ` beyond-chats-internship-assignment` (Web Scraping Project) |
+| 📱 Mobile Dev | `Athlete Management App` (GDSC Solution Challenge)  & • `StackIt Flutter App` (Odoo Hackathon) |
 | 🌐 Web Scraping | Built a pipeline that scrapes blogs from a platform, searches their titles on Google, extracts content from top results, and uses Gemini LLM to enhance and rewrite blogs for improved SEO and reach |
 | ☁️ DevOps & Cloud | Deployed full-stack apps on **GCP Compute Engine** with **Nginx** in production |
-| 📊 Databases & Data Systems | Proficient with **MongoDB** for real-time storage (e.g. machine monitoring) • Comfortable with snapshotting, structured storage & querying |
+| 📊 Databases & Data Systems | Proficient in both SQL & NoSQL databases including **PostgreSQL**, **MongoDB**, and **Supabase**; experienced in database design, indexing, querying, and real-time data handling for scalable systems |
+| 🏗️ System Design | Learning system design with focus on building scalable backends, choosing the right databases, using caching, and handling high traffic in real-world applications |
 | 🤖 ML Enthusiast | Learning supervised ML techniques and exploring integrations into app workflows for smart analytics |
 | 🔌 Real-Time Communication | Integrated **Socket.IO** in production (chat & notifications)
 
@@ -56,6 +57,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -85,8 +87,13 @@
 ---
 
 ## 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra1309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra1309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra1309&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
