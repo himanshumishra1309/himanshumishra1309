@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Himanshu Mishra</h1>
-<h3 align="center">Full-Stack & Flutter Developer | SIH Winner | ML Enthusiast | Practicing DSA</h3>
+<h3 align="center">Full-Stack & Flutter Developer | SIH Winner | Learning System Design | ML Enthusiast | Practicing DSA</h3>
 
 
 ---
